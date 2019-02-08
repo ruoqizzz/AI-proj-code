@@ -1,0 +1,13 @@
+Package: WobbiesWorld
+Type: Package
+Title: Wobbie's World
+Version: 1.2.0
+Author: Michael Ashcroft
+Maintainer: Michael Ashcroft <michael.ashcroft@it.uu.se>
+Description: The Wobbie's World game for the AI course, Uppsala University
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2018-10-18 13:05:16 UTC; Mike
